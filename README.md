@@ -4,7 +4,7 @@ Full-stack developer with 7+ years of experience building custom websites, inter
 
 Now I'm going deeper into the modern front-end ecosystem, with a focus on **React**, **TypeScript** & **Next.js**.
  
-Recently earned a blockchain development certification — curious about what's next in web3 🔗
+Recently earned a blockchain development certification — curious about what's next in web3 🔗<br/>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cyril-fischer)
 
 ## 💻 Tech Stack:
